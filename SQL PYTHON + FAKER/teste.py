@@ -1,4 +1,5 @@
-import mysql.connector
+'''pip install mysql-connector-python, faker, unidecode antes do uso'''
+import mysql.connector 
 from faker import Faker
 import random
 from unidecode import unidecode
